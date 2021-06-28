@@ -22,8 +22,8 @@ w\:* {behavior:url(#default#VML);}
 <title>Capstone Project: The Battle Of Neighborhoods In Europe</title>
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
-  <o:Author>Ğîäèòåëè</o:Author>
-  <o:LastAuthor>Ïåğôèëüåâ Ñåğãåé Àíàòîëüåâè÷</o:LastAuthor>
+  <o:Author>ÃÃ®Ã¤Ã¨Ã²Ã¥Ã«Ã¨</o:Author>
+  <o:LastAuthor>ÃÃ¥Ã°Ã´Ã¨Ã«Ã¼Ã¥Ã¢ Ã‘Ã¥Ã°Ã£Ã¥Ã© Ã€Ã­Ã Ã²Ã®Ã«Ã¼Ã¥Ã¢Ã¨Ã·</o:LastAuthor>
   <o:Revision>2</o:Revision>
   <o:TotalTime>10</o:TotalTime>
   <o:Created>2021-06-28T06:53:00Z</o:Created>
@@ -711,7 +711,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-fareast-language:EN-US;}
 p.MsoHeader, li.MsoHeader, div.MsoHeader
 	{mso-style-priority:99;
-	mso-style-link:"Âåğõíèé êîëîíòèòóë Çíàê";
+	mso-style-link:"Ã‚Ã¥Ã°ÃµÃ­Ã¨Ã© ÃªÃ®Ã«Ã®Ã­Ã²Ã¨Ã²Ã³Ã« Ã‡Ã­Ã Ãª";
 	margin:0cm;
 	margin-bottom:.0001pt;
 	mso-pagination:widow-orphan;
@@ -729,7 +729,7 @@ p.MsoHeader, li.MsoHeader, div.MsoHeader
 	mso-fareast-language:EN-US;}
 p.MsoFooter, li.MsoFooter, div.MsoFooter
 	{mso-style-priority:99;
-	mso-style-link:"Íèæíèé êîëîíòèòóë Çíàê";
+	mso-style-link:"ÃÃ¨Ã¦Ã­Ã¨Ã© ÃªÃ®Ã«Ã®Ã­Ã²Ã¨Ã²Ã³Ã« Ã‡Ã­Ã Ãª";
 	margin:0cm;
 	margin-bottom:.0001pt;
 	mso-pagination:widow-orphan;
@@ -761,7 +761,7 @@ a:visited, span.MsoHyperlinkFollowed
 pre
 	{mso-style-noshow:yes;
 	mso-style-priority:99;
-	mso-style-link:"Ñòàíäàğòíûé HTML Çíàê";
+	mso-style-link:"Ã‘Ã²Ã Ã­Ã¤Ã Ã°Ã²Ã­Ã»Ã© HTML Ã‡Ã­Ã Ãª";
 	margin:0cm;
 	margin-bottom:.0001pt;
 	mso-pagination:widow-orphan;
@@ -862,24 +862,24 @@ p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxS
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 span.a
-	{mso-style-name:"Âåğõíèé êîëîíòèòóë Çíàê";
+	{mso-style-name:"Ã‚Ã¥Ã°ÃµÃ­Ã¨Ã© ÃªÃ®Ã«Ã®Ã­Ã²Ã¨Ã²Ã³Ã« Ã‡Ã­Ã Ãª";
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Âåğõíèé êîëîíòèòóë";}
+	mso-style-link:"Ã‚Ã¥Ã°ÃµÃ­Ã¨Ã© ÃªÃ®Ã«Ã®Ã­Ã²Ã¨Ã²Ã³Ã«";}
 span.a0
-	{mso-style-name:"Íèæíèé êîëîíòèòóë Çíàê";
+	{mso-style-name:"ÃÃ¨Ã¦Ã­Ã¨Ã© ÃªÃ®Ã«Ã®Ã­Ã²Ã¨Ã²Ã³Ã« Ã‡Ã­Ã Ãª";
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Íèæíèé êîëîíòèòóë";}
+	mso-style-link:"ÃÃ¨Ã¦Ã­Ã¨Ã© ÃªÃ®Ã«Ã®Ã­Ã²Ã¨Ã²Ã³Ã«";}
 span.HTML
-	{mso-style-name:"Ñòàíäàğòíûé HTML Çíàê";
+	{mso-style-name:"Ã‘Ã²Ã Ã­Ã¤Ã Ã°Ã²Ã­Ã»Ã© HTML Ã‡Ã­Ã Ãª";
 	mso-style-noshow:yes;
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Ñòàíäàğòíûé HTML";
+	mso-style-link:"Ã‘Ã²Ã Ã­Ã¤Ã Ã°Ã²Ã­Ã»Ã© HTML";
 	mso-ansi-font-size:10.0pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Courier New";
@@ -1594,7 +1594,7 @@ ul
 <style>
  /* Style Definitions */
  table.MsoNormalTable
-	{mso-style-name:"Îáû÷íàÿ òàáëèöà";
+	{mso-style-name:"ÃÃ¡Ã»Ã·Ã­Ã Ã¿ Ã²Ã Ã¡Ã«Ã¨Ã¶Ã ";
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
@@ -1677,11 +1677,11 @@ mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x
  </v:formulas>
  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
  <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Ğèñóíîê_x0020_4" o:spid="_x0000_i1037" type="#_x0000_t75"
+</v:shapetype><v:shape id="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_4" o:spid="_x0000_i1037" type="#_x0000_t75"
  style='width:482.25pt;height:283.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index.files/image001.jpg" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=643 height=378
-src="index.files/image002.jpg" v:shapes="Ğèñóíîê_x0020_4"><![endif]></span><span
+src="index.files/image002.jpg" v:shapes="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_4"><![endif]></span><span
 lang=EN-US style='font-size:14.0pt;mso-bidi-font-size:13.0pt;line-height:107%;
 font-family:"Arial",sans-serif;mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
@@ -1713,7 +1713,7 @@ lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-ser
 mso-ansi-language:EN-US'>The family currently resides in Novosibirsk, which is
 the third-largest city in Russia with a population of over 1.5 million people. <span
 style='color:#202122;background:white'>The city&nbsp;is one of the major
-business and transport hubs. A substantial number of large companies’
+business and transport hubs. A substantial number of large companiesÂ’
 headquarters are located here as well as an international airport, a river port
 and a railway station. </span>Novosibirsk has many parks, open spaces, and
 squares throughout the city. Attractions and entertainment facilities include
@@ -1729,7 +1729,7 @@ analysis another Russian city, Irkutsk, which is located in Western Siberia.
 With a population of 600 thousand people, it is more provincial and cozy,
 whereas it is also a major cultural center with some famous museums, theaters,
 concert halls and natural attractions. Our friends used to live in Irkutsk ten
-years ago and consider it their “second hometown”. <o:p></o:p></span></p>
+years ago and consider it their Â“second hometownÂ”. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-right:418.35pt;text-align:justify'><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
@@ -1746,7 +1746,7 @@ mso-ansi-language:EN-US'>The outcome of this project may be interesting (with
 some adjustments, perhaps) to&nbsp;any person or family, who is considering
 options to relocate from their hometown to a new place either within their
 native country or in a foreign country or another part of the world. Therefore,
-we argue that lots of people in today’s globalized world actually form target
+we argue that lots of people in todayÂ’s globalized world actually form target
 audience for this problem. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-right:418.35pt'><b style='mso-bidi-font-weight:
@@ -1786,12 +1786,12 @@ href="https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossar
 lang=EN-US style='font-family:"Arial",sans-serif;mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-right:418.35pt'><span style='font-family:"Arial",sans-serif;
-mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Ğèñóíîê_x0020_1"
+mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_1"
  o:spid="_x0000_i1036" type="#_x0000_t75" style='width:488.25pt;height:221.25pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index.files/image003.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=651 height=295
-src="index.files/image004.jpg" v:shapes="Ğèñóíîê_x0020_1"><![endif]></span><span
+src="index.files/image004.jpg" v:shapes="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_1"><![endif]></span><span
 lang=EN-US style='font-family:"Arial",sans-serif;mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-right:418.35pt;text-align:justify'><span
@@ -1837,12 +1837,12 @@ parse all information necessary for the project, including location data with
 complete address of the university. Below is an excerpt from the webpage:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-right:418.35pt'><span style='font-family:"Arial",sans-serif;
-mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Ğèñóíîê_x0020_2"
+mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_2"
  o:spid="_x0000_i1035" type="#_x0000_t75" style='width:429pt;height:249pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index.files/image005.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=572 height=332
-src="index.files/image006.jpg" v:shapes="Ğèñóíîê_x0020_2"><![endif]></span><span
+src="index.files/image006.jpg" v:shapes="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_2"><![endif]></span><span
 lang=EN-US style='font-family:"Arial",sans-serif;mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-right:418.35pt;text-align:justify'><span
@@ -1855,7 +1855,7 @@ each universities. The resulting dataset should contain the following columns:<o
 auto;text-indent:-18.0pt;mso-list:l3 level1 lfo4'><![if !supportLists]><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EN-US'><span style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:12.0pt;
 line-height:107%;font-family:"Arial",sans-serif;mso-ansi-language:EN-US'>Name
 of the university;<o:p></o:p></span></p>
@@ -1864,7 +1864,7 @@ of the university;<o:p></o:p></span></p>
 auto;text-indent:-18.0pt;mso-list:l3 level1 lfo4'><![if !supportLists]><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EN-US'><span style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:12.0pt;
 line-height:107%;font-family:"Arial",sans-serif;mso-ansi-language:EN-US'>Rank
 of the university according to the Times Higher Education list;<o:p></o:p></span></p>
@@ -1873,7 +1873,7 @@ of the university according to the Times Higher Education list;<o:p></o:p></span
 auto;text-indent:-18.0pt;mso-list:l3 level1 lfo4'><![if !supportLists]><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EN-US'><span style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:12.0pt;
 line-height:107%;font-family:"Arial",sans-serif;mso-ansi-language:EN-US'>Country;<o:p></o:p></span></p>
 
@@ -1881,7 +1881,7 @@ line-height:107%;font-family:"Arial",sans-serif;mso-ansi-language:EN-US'>Country
 auto;text-indent:-18.0pt;mso-list:l3 level1 lfo4'><![if !supportLists]><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EN-US'><span style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:12.0pt;
 line-height:107%;font-family:"Arial",sans-serif;mso-ansi-language:EN-US'>Complete
 address (will use it later to obtain geographical coordinates).<o:p></o:p></span></p>
@@ -1927,12 +1927,12 @@ link to the previously obtained data on educational institutions.<o:p></o:p></sp
 style='font-family:"Arial",sans-serif;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-right:418.35pt'><span style='font-family:"Arial",sans-serif;
-mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Ğèñóíîê_x0020_3"
+mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_3"
  o:spid="_x0000_i1034" type="#_x0000_t75" style='width:436.5pt;height:306pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index.files/image007.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=582 height=408
-src="index.files/image008.jpg" v:shapes="Ğèñóíîê_x0020_3"><![endif]></span><span
+src="index.files/image008.jpg" v:shapes="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_3"><![endif]></span><span
 lang=EN-US style='font-family:"Arial",sans-serif;mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-right:418.35pt'><span lang=EN-US
@@ -1947,7 +1947,7 @@ columns:<o:p></o:p></span></p>
 auto;text-indent:-18.0pt;mso-list:l10 level1 lfo5'><![if !supportLists]><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EN-US'><span style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:12.0pt;
 line-height:107%;font-family:"Arial",sans-serif;mso-ansi-language:EN-US'>City;<o:p></o:p></span></p>
 
@@ -1955,7 +1955,7 @@ line-height:107%;font-family:"Arial",sans-serif;mso-ansi-language:EN-US'>City;<o
 auto;text-indent:-18.0pt;mso-list:l10 level1 lfo5'><![if !supportLists]><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EN-US'><span style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:12.0pt;
 line-height:107%;font-family:"Arial",sans-serif;mso-ansi-language:EN-US'>Country;<o:p></o:p></span></p>
 
@@ -1963,7 +1963,7 @@ line-height:107%;font-family:"Arial",sans-serif;mso-ansi-language:EN-US'>Country
 auto;text-indent:-18.0pt;mso-list:l10 level1 lfo5'><![if !supportLists]><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EN-US'><span style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:12.0pt;
 line-height:107%;font-family:"Arial",sans-serif;mso-ansi-language:EN-US'>Population.<o:p></o:p></span></p>
 
@@ -1989,7 +1989,7 @@ cluster the cities into groups and find the most suitable ones for relocation.
 We will request data from the Foursquare platform via the `explore` endpoint of
 the API. It will return a list of recommended venues near each city we want to
 analyze. The endpoint accepts a set of input parameters, below is the subset
-appropriate for our task: <span style='mso-spacerun:yes'> </span><o:p></o:p></span></p>
+appropriate for our task: <span style='mso-spacerun:yes'>Â </span><o:p></o:p></span></p>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=0
  style='width:503.75pt;border-collapse:collapse;border:none;mso-border-alt:
@@ -2147,7 +2147,7 @@ mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p>
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
 mso-ansi-language:EN-US'>The endpoint will return a JSON object containing
 numerous fields, so we will parse it and extract data on venues recommendations
-and venues’ attributes meaningful for our project:<o:p></o:p></span></p>
+and venuesÂ’ attributes meaningful for our project:<o:p></o:p></span></p>
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=0
  style='width:503.75pt;border-collapse:collapse;border:none;mso-border-alt:
@@ -2377,109 +2377,109 @@ RU'>response['groups'][0]['items']</span><span lang=EN-US style='font-family:
 vertical-align:baseline;word-break:break-all'><span lang=EN-US
 style='letter-spacing:.1pt;mso-ansi-language:EN-US'>[{'reasons': {'count': 0,<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>   </span>'items': [{'summary': 'This spot is popular',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â  </span>'items': [{'summary': 'This spot is popular',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>     </span>'type': 'general',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â  </span>'type': 'general',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>     </span>'reasonName': 'globalInteractionReason'}]},<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â  </span>'reasonName': 'globalInteractionReason'}]},<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>  </span>'venue': {'id': '54fcbf1a498ec6204cad12b7',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â  </span>'venue': {'id': '54fcbf1a498ec6204cad12b7',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>   </span>'name': 'Hotel H10 Duque de Loul&eacute;',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â  </span>'name': 'Hotel H10 Duque de Loul&eacute;',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>   </span>'location': {'address': 'Av. Duque de Loul&eacute;, 81',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â  </span>'location': {'address': 'Av. Duque de Loul&eacute;, 81',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'lat': 38.726364248881325,<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'lat': 38.726364248881325,<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'lng': -9.147197881306065,<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'lng': -9.147197881306065,<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'labeledLatLngs': [{'label': 'display',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'labeledLatLngs': [{'label': 'display',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>      </span>'lat': 38.726364248881325,<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â Â  </span>'lat': 38.726364248881325,<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>      </span>'lng': -9.147197881306065}],<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â Â  </span>'lng': -9.147197881306065}],<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'distance': 199,<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'distance': 199,<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'postalCode': '1050-088',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'postalCode': '1050-088',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'cc': 'PT',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'cc': 'PT',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'city': 'Lisboa',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'city': 'Lisboa',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'state': 'Lisboa',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'state': 'Lisboa',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'country': 'Portugal',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'country': 'Portugal',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'formattedAddress': ['Av. Duque de Loul&eacute;, 81',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'formattedAddress': ['Av. Duque de Loul&eacute;, 81',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>     </span>'1050-088 Lisboa',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â  </span>'1050-088 Lisboa',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>     </span>'Portugal']},<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â  </span>'Portugal']},<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>   </span>'categories': [{'id': '4bf58dd8d48988d1fa931735',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â  </span>'categories': [{'id': '4bf58dd8d48988d1fa931735',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>     </span>'name': 'Hotel',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â  </span>'name': 'Hotel',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>     </span>'pluralName': 'Hotels',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â  </span>'pluralName': 'Hotels',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>     </span>'shortName': 'Hotel',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â  </span>'shortName': 'Hotel',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>     </span>'primary': True}],<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â  </span>'primary': True}],<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>   </span>'photos': {'count': 0, 'groups': []}},<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â  </span>'photos': {'count': 0, 'groups': []}},<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>  </span>'referralId': 'e-0-54fcbf1a498ec6204cad12b7-0'},<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â  </span>'referralId': 'e-0-54fcbf1a498ec6204cad12b7-0'},<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
 lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'> {'reasons': {'count': 0,<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>   </span>'items': [{'summary': 'This spot is popular',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â  </span>'items': [{'summary': 'This spot is popular',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>     </span>'type': 'general',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â  </span>'type': 'general',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>     </span>'reasonName': 'globalInteractionReason'}]},<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â  </span>'reasonName': 'globalInteractionReason'}]},<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>  </span>'venue': {'id': '4b634318f964a5204d6e2ae3',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â  </span>'venue': {'id': '4b634318f964a5204d6e2ae3',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>   </span>'name': 'Marqu&ecirc;s de Pombal',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â  </span>'name': 'Marqu&ecirc;s de Pombal',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>   </span>'location': {'address': 'P&ccedil;. do Marqu&ecirc;s de Pombal',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â  </span>'location': {'address': 'P&ccedil;. do Marqu&ecirc;s de Pombal',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'lat': 38.7249136994271,<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'lat': 38.7249136994271,<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'lng': -9.149396142959395,<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'lng': -9.149396142959395,<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'distance': 164,<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'distance': 164,<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'postalCode': '1250',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'postalCode': '1250',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'cc': 'PT',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'cc': 'PT',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'city': 'Lisboa',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'city': 'Lisboa',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'state': 'Lisboa',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'state': 'Lisboa',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'country': 'Portugal',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'country': 'Portugal',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>    </span>'formattedAddress': ['P&ccedil;. do Marqu&ecirc;s de Pombal',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â  </span>'formattedAddress': ['P&ccedil;. do Marqu&ecirc;s de Pombal',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>     </span>'1250 Lisboa',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â  </span>'1250 Lisboa',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>     </span>'Portugal']},<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â  </span>'Portugal']},<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>   </span>'categories': [{'id': '4bf58dd8d48988d164941735',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â  </span>'categories': [{'id': '4bf58dd8d48988d164941735',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>     </span>'name': 'Plaza',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â  </span>'name': 'Plaza',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'> <span style='mso-spacerun:yes'>    </span>'pluralName': 'Plazas',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'> <span style='mso-spacerun:yes'>Â Â Â Â </span>'pluralName': 'Plazas',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>     </span>'shortName': 'Plaza',<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â  </span>'shortName': 'Plaza',<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>     </span>'primary': True}],<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â Â Â  </span>'primary': True}],<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>   </span>'photos': {'count': 0, 'groups': []}},<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â Â  </span>'photos': {'count': 0, 'groups': []}},<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
-lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>  </span>'referralId': 'e-0-4b634318f964a5204d6e2ae3-1'},<o:p></o:p></span></pre><pre
+lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><span style='mso-spacerun:yes'>Â  </span>'referralId': 'e-0-4b634318f964a5204d6e2ae3-1'},<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
 lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'>...<o:p></o:p></span></pre><pre
 style='background:white;vertical-align:baseline;word-break:break-all'><span
@@ -2490,7 +2490,7 @@ style='background:white;vertical-align:baseline;word-break:break-all'><span
 lang=EN-US style='letter-spacing:.1pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></pre><pre
 style='margin-right:418.35pt;text-align:justify;background:white;vertical-align:
 baseline;word-break:break-all'><span lang=EN-US style='font-size:12.0pt;
-font-family:"Arial",sans-serif;mso-ansi-language:EN-US'>This structure of Foursquare’s data will help us create a dataset of venues for all the cities and label all the venues by their categories.<span style='mso-spacerun:yes'>  </span></span><span
+font-family:"Arial",sans-serif;mso-ansi-language:EN-US'>This structure of FoursquareÂ’s data will help us create a dataset of venues for all the cities and label all the venues by their categories.<span style='mso-spacerun:yes'>Â  </span></span><span
 lang=EN-US style='font-size:12.0pt;letter-spacing:.1pt;mso-ansi-language:EN-US'><o:p></o:p></span></pre>
 
 <p class=MsoListParagraphCxSpFirst style='margin-right:418.35pt;mso-add-space:
@@ -2514,7 +2514,7 @@ avoid'><span lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:
 coordinates of various objects (cities, venues, etc.) we have created a
 developer account on <span class=MsoHyperlink><a
 href="https://developer.here.com">https://developer.here.com</a></span><span
-style='mso-spacerun:yes'>  </span>and received credentials for accessing HERE
+style='mso-spacerun:yes'>Â  </span>and received credentials for accessing HERE
 Location Services REST APIs. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-right:418.35pt;text-align:justify;page-break-after:
@@ -2522,7 +2522,7 @@ avoid'><span lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:
 "Arial",sans-serif;mso-ansi-language:EN-US'>In particular, we will be using
 HERE Geocoding service to get latitude/longitude coordinates, since this
 service has proved to be robust and accurate (in contrast to OSM). We will call
-the service’s API from Python via GeoPy library.<o:p></o:p></span></p>
+the serviceÂ’s API from Python via GeoPy library.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-right:418.35pt'><span lang=EN-US
 style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
@@ -5372,21 +5372,21 @@ mso-ansi-language:EN-US'>A simple plot and a histogram below show the
 distribution of those cities by population: <o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-family:"Arial",sans-serif;mso-fareast-language:
-RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Ğèñóíîê_x0020_6" o:spid="_x0000_i1033"
+RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_6" o:spid="_x0000_i1033"
  type="#_x0000_t75" style='width:245.25pt;height:180.75pt;visibility:visible;
  mso-wrap-style:square'>
  <v:imagedata src="index.files/image009.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=327 height=241
-src="index.files/image010.jpg" v:shapes="Ğèñóíîê_x0020_6"><![endif]></span><span
+src="index.files/image010.jpg" v:shapes="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_6"><![endif]></span><span
 style='font-family:"Arial",sans-serif'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-family:"Arial",sans-serif;mso-fareast-language:
-RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Ğèñóíîê_x0020_7" o:spid="_x0000_i1032"
+RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_7" o:spid="_x0000_i1032"
  type="#_x0000_t75" style='width:279.75pt;height:189pt;visibility:visible;
  mso-wrap-style:square'>
  <v:imagedata src="index.files/image011.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=373 height=252
-src="index.files/image012.jpg" v:shapes="Ğèñóíîê_x0020_7"><![endif]></span><span
+src="index.files/image012.jpg" v:shapes="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_7"><![endif]></span><span
 style='font-family:"Arial",sans-serif'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;line-height:107%;
@@ -5394,12 +5394,12 @@ font-family:"Arial",sans-serif;mso-ansi-language:EN-US'>Also, we can see how
 the cities are located on a map of Europe:<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-family:"Arial",sans-serif;mso-fareast-language:
-RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Ğèñóíîê_x0020_8" o:spid="_x0000_i1031"
+RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_8" o:spid="_x0000_i1031"
  type="#_x0000_t75" style='width:604.5pt;height:486.75pt;visibility:visible;
  mso-wrap-style:square'>
  <v:imagedata src="index.files/image013.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=806 height=649
-src="index.files/image014.jpg" v:shapes="Ğèñóíîê_x0020_8"><![endif]></span><span
+src="index.files/image014.jpg" v:shapes="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_8"><![endif]></span><span
 style='font-family:"Arial",sans-serif'><o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
@@ -5441,7 +5441,7 @@ we will split it into two subproblems:<o:p></o:p></span></p>
 text-indent:-18.0pt;mso-list:l8 level1 lfo8'><![if !supportLists]><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EN-US'><span style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
 mso-ansi-language:EN-US'>Subproblem #1: Find a group of large European cities
@@ -5449,7 +5449,7 @@ similar to Novosibirsk <o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:418.35pt;text-align:justify'><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
-mso-ansi-language:EN-US'>We create a new dataset of “large cities” as follows:
+mso-ansi-language:EN-US'>We create a new dataset of Â“large citiesÂ” as follows:
 select all cities with population &gt;= 800&nbsp;thousand people, add
 Novosibirsk to them. Then apply clustering and select a group of large cities
 containing Novosibirsk. <o:p></o:p></span></p>
@@ -5458,7 +5458,7 @@ containing Novosibirsk. <o:p></o:p></span></p>
 text-indent:-18.0pt;mso-list:l8 level1 lfo8'><![if !supportLists]><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EN-US'><span style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
 mso-ansi-language:EN-US'>Subproblem #2: Find a group of medium European cities
@@ -5466,7 +5466,7 @@ similar to Irkutsk<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:418.35pt;text-align:justify'><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
-mso-ansi-language:EN-US'>We create a new dataset of “medium cities” as follows:
+mso-ansi-language:EN-US'>We create a new dataset of Â“medium citiesÂ” as follows:
 select all cities with population &lt;= one&nbsp;million people, add Irkutsk to
 them. Then apply clustering and select a group of medium cities containing
 Irkutsk. <o:p></o:p></span></p>
@@ -5488,16 +5488,16 @@ mso-ansi-language:EN-US'>Solution<o:p></o:p></span></b></p>
 <p class=MsoNormal style='margin-right:418.35pt'><span lang=EN-US
 style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
 mso-ansi-language:EN-US'>For each city in the initial dataset, we have explored
-the city’s venues via Foursquare API and therefore we have created a new
+the cityÂ’s venues via Foursquare API and therefore we have created a new
 dataset as follows:<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Arial",sans-serif;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Ğèñóíîê_x0020_11" o:spid="_x0000_i1030" type="#_x0000_t75" style='width:7in;
+ id="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_11" o:spid="_x0000_i1030" type="#_x0000_t75" style='width:7in;
  height:306pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index.files/image015.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=672 height=408
-src="index.files/image016.jpg" v:shapes="Ğèñóíîê_x0020_11"><![endif]></span><span
+src="index.files/image016.jpg" v:shapes="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_11"><![endif]></span><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
 mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
@@ -5508,7 +5508,7 @@ font-family:"Arial",sans-serif;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span>
 mso-list:l8 level1 lfo8'><![if !supportLists]><span lang=EN-US
 style='font-size:12.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:EN-US'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
 mso-ansi-language:EN-US'>For large cities:<o:p></o:p></span></b></p>
@@ -5537,12 +5537,12 @@ normalization, and the prepared data looks as follows: <o:p></o:p></span></p>
 
 <p class=MsoNormal style='page-break-after:avoid'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
-mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Ğèñóíîê_x0020_12"
+mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_12"
  o:spid="_x0000_i1029" type="#_x0000_t75" style='width:501.75pt;height:210.75pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index.files/image017.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=669 height=281
-src="index.files/image018.jpg" v:shapes="Ğèñóíîê_x0020_12"><![endif]></span></b><b
+src="index.files/image018.jpg" v:shapes="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_12"><![endif]></span></b><b
 style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:12.0pt;
 line-height:107%;font-family:"Arial",sans-serif;mso-ansi-language:EN-US'><o:p></o:p></span></b></p>
 
@@ -5583,7 +5583,7 @@ line-height:107%;font-family:"Arial",sans-serif;mso-ansi-language:EN-US'><o:p>&n
 auto;text-indent:-18.0pt;page-break-after:avoid;mso-list:l8 level1 lfo8'><![if !supportLists]><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EN-US'><span style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
 mso-ansi-language:EN-US'>For medium cities:<o:p></o:p></span></b></p>
@@ -5615,12 +5615,12 @@ looks as follows:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
 line-height:107%;font-family:"Arial",sans-serif;mso-fareast-language:RU;
-mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Ğèñóíîê_x0020_14" o:spid="_x0000_i1028"
+mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_14" o:spid="_x0000_i1028"
  type="#_x0000_t75" style='width:501.75pt;height:202.5pt;visibility:visible;
  mso-wrap-style:square'>
  <v:imagedata src="index.files/image019.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=669 height=270
-src="index.files/image020.jpg" v:shapes="Ğèñóíîê_x0020_14"><![endif]></span><span
+src="index.files/image020.jpg" v:shapes="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_14"><![endif]></span><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
 mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
@@ -5672,14 +5672,14 @@ subproblems:<o:p></o:p></span></p>
 text-indent:-18.0pt;mso-list:l8 level1 lfo8'><![if !supportLists]><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EN-US'><span style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
 mso-ansi-language:EN-US'>For large cities:<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:418.35pt'><span lang=EN-US
 style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
-mso-ansi-language:EN-US'>Our clients’ hometown Novosibirsk appears in the
+mso-ansi-language:EN-US'>Our clientsÂ’ hometown Novosibirsk appears in the
 following cluster: <br>
 ['Barcelona', 'Budapest', 'Madrid', 'Novosibirsk']<o:p></o:p></span></p>
 
@@ -5690,11 +5690,11 @@ that cluster are:<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Arial",sans-serif;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Ğèñóíîê_x0020_9" o:spid="_x0000_i1027" type="#_x0000_t75" style='width:623.25pt;
+ id="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_9" o:spid="_x0000_i1027" type="#_x0000_t75" style='width:623.25pt;
  height:166.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index.files/image021.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=831 height=222
-src="index.files/image022.jpg" v:shapes="Ğèñóíîê_x0020_9"><![endif]></span><span
+src="index.files/image022.jpg" v:shapes="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_9"><![endif]></span><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
 mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
@@ -5711,14 +5711,14 @@ mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
 text-indent:-18.0pt;mso-list:l8 level1 lfo8'><![if !supportLists]><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-ansi-language:
-EN-US'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EN-US'><span style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
 mso-ansi-language:EN-US'>For medium cities:<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:418.35pt'><span lang=EN-US
 style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
-mso-ansi-language:EN-US'>Our clients’ hometown Irkutsk appears in the following
+mso-ansi-language:EN-US'>Our clientsÂ’ hometown Irkutsk appears in the following
 cluster: <br>
 ['Antwerp', 'Bonn', 'Hanover', 'Irkutsk', 'Karlsruhe', 'Nice', 'Palma de
 Mallorca']<o:p></o:p></span></p>
@@ -5730,11 +5730,11 @@ that cluster are:<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Arial",sans-serif;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Ğèñóíîê_x0020_10" o:spid="_x0000_i1026" type="#_x0000_t75" style='width:624pt;
+ id="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_10" o:spid="_x0000_i1026" type="#_x0000_t75" style='width:624pt;
  height:240pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index.files/image023.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=832 height=320
-src="index.files/image024.jpg" v:shapes="Ğèñóíîê_x0020_10"><![endif]></span><span
+src="index.files/image024.jpg" v:shapes="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_10"><![endif]></span><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
 mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
@@ -5755,11 +5755,11 @@ clusters look on the map of Europe:<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Arial",sans-serif;mso-fareast-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Ğèñóíîê_x0020_5" o:spid="_x0000_i1025" type="#_x0000_t75" style='width:512.25pt;
+ id="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_5" o:spid="_x0000_i1025" type="#_x0000_t75" style='width:512.25pt;
  height:317.25pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index.files/image025.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=683 height=423
-src="index.files/image026.jpg" v:shapes="Ğèñóíîê_x0020_5"><![endif]></span><span
+src="index.files/image026.jpg" v:shapes="ÃÃ¨Ã±Ã³Ã­Ã®Ãª_x0020_5"><![endif]></span><span
 style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
@@ -5822,7 +5822,7 @@ move to a moderate-size city similar to Irkutsk.<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-right:418.35pt;text-align:justify'><span
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
 mso-ansi-language:EN-US'>Interestingly, the algorithm finds that the majority
-of the “target” cities for our clients’ relocation belong to Spain and Germany.
+of the Â“targetÂ” cities for our clientsÂ’ relocation belong to Spain and Germany.
 Although, this might be related to some specific preferences of Russian,
 Spanish and German users of the Foursquare platform rather than to actual
 similarities of cities in those countries.<o:p></o:p></span></p>
@@ -5841,7 +5841,7 @@ Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 line-height:107%;font-family:"Arial",sans-serif;mso-ansi-language:EN-US'>The
 dataset of the cities may be filtered more thoroughly based on the number of
 universities nearby or on their fields of study, e.g. if we are interested in a
-specific area of study for our clients’ children;<o:p></o:p></span></p>
+specific area of study for our clientsÂ’ children;<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-right:418.35pt;mso-add-space:
 auto;text-align:justify;text-indent:-18.0pt;mso-list:l9 level1 lfo10'><![if !supportLists]><span
@@ -5879,7 +5879,7 @@ Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 </span></span></span><![endif]><span lang=EN-US style='font-size:12.0pt;
 line-height:107%;font-family:"Arial",sans-serif;mso-ansi-language:EN-US'>Mean-Shift
 Clustering. In contrast to K-means clustering, there is no need to select the
-number of clusters as mean-shift automatically discovers this. That’s a massive
+number of clusters as mean-shift automatically discovers this. ThatÂ’s a massive
 advantage. The fact that the cluster centers converge towards the points of
 maximum density is also quite desirable as it is quite intuitive to understand
 and fits well in a naturally data-driven sense.<o:p></o:p></span></p>
@@ -5932,7 +5932,7 @@ significant amounts of data and visualize results of our computations. <o:p></o:
 lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Arial",sans-serif;
 mso-ansi-language:EN-US'>Various external APIs (e.g. Foursquare, Here, OSM) may
 be valuable sources of information to help enrich our datasets with new
-features, such as geographical coordinates or users’ recommendations from
+features, such as geographical coordinates or usersÂ’ recommendations from
 social networks.<o:p></o:p></span></p>
 
 </div>
